@@ -5502,7 +5502,7 @@ While {{DOMString}} is defined to be
 an OMG IDL boxed [=sequence type|sequence=]&lt;{{unsigned short}}&gt; valuetype
 in [[DOM-LEVEL-3-CORE/core#ID-C74D1578|DOM Level 3 Core §The DOMString Type]],
 this document defines {{DOMString}} to be an intrinsic type
-so as to avoidspecial casing that sequence type
+so as to avoid special casing that sequence type
 in various situations where a string is required.
 
 Note: Note also that <emu-val>null</emu-val>
